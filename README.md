@@ -2,7 +2,7 @@
 my machine learning workflow
 # Machine Learning Algorithms
 
-## 📌 About the Project
+##  About the Project
 
 This project demonstrates **9 Machine Learning algorithms** using Python and Scikit-learn.
 
@@ -15,7 +15,7 @@ The dataset contains student information such as:
 
 The project performs both **Regression** and **Classification** tasks.
 
-## 🤖 Algorithms Used
+##  Algorithms Used
 
 ### Classification
 
@@ -32,14 +32,14 @@ The project performs both **Regression** and **Classification** tasks.
 8. Lasso Regression
 9. Ridge Regression
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * NumPy
 * Pandas
-* Scikit-learn
 
-## 📊 Evaluation Metrics
+
+##  Evaluation Metrics
 
 The models are evaluated using:
 
@@ -49,7 +49,7 @@ The models are evaluated using:
 * Confusion Matrix
 * Classification Report
 
-## ▶️ How to Run
+##  How to Run
 
 ### 1. Clone the repository
 
@@ -69,7 +69,7 @@ pip install pandas numpy scikit-learn
 python main.py
 ```
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 Machine-Learning-Algorithms/
@@ -79,12 +79,12 @@ Machine-Learning-Algorithms/
 └── requirements.txt
 ```
 
-## 👨‍💻 Author
+##  Author
 
 **Your Name**
 
 GitHub: https://github.com/diviraj14
 
-## ⭐ Conclusion
+##  Conclusion
 
 This project provides a simple implementation of different Machine Learning algorithms and compares their performance using standard evaluation metrics.

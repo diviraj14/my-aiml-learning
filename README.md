@@ -37,6 +37,7 @@ The project performs both **Regression** and **Classification** tasks.
 * Python
 * NumPy
 * Pandas
+* scikit-learn
 
 
 ##  Evaluation Metrics
@@ -76,7 +77,6 @@ Machine-Learning-Algorithms/
 │
 ├── main.py
 ├── README.md
-└── requirements.txt
 ```
 
 ##  Author

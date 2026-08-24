@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1OqMr-tzpxnK9sNjBSBjdM8EHvp8WswFo
 """
 
-# ============================================================
-# MACHINE LEARNING - ALL ALGORITHMS IN ONE PROGRAM
-# ============================================================
 
 import pandas as pd
 import numpy as np

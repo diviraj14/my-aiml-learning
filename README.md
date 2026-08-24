@@ -75,7 +75,7 @@ python main.py
 ```text
 Machine-Learning-Algorithms/
 │
-├── main.py
+├── supervised_learning.py
 ├── README.md
 ```
 

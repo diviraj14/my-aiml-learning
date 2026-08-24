@@ -83,7 +83,7 @@ Machine-Learning-Algorithms/
 
 **Your Name**
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/diviraj14
 
 ## ⭐ Conclusion
 
